@@ -3,4 +3,4 @@ venv
 .venv
 chroma_langchain_db_persist/
 chroma_langchain_db/
-test_output/
+test_output/123.txt
